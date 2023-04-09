@@ -1,3 +1,3 @@
-# First readme , other pc
+# First readme (freeCodeCamp)
 
 Curso de github de free code camp
